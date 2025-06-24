@@ -1,0 +1,6 @@
+---
+site_name: docker-s3-volume
+nav:
+  - Home: README.md
+plugins:
+  - techdocs-core
