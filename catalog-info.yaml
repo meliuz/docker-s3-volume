@@ -5,12 +5,11 @@ metadata:
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: meliuz/docker-s3-volume
-  description: '# docker-s3-volume
-
+  description: |-
+    # docker-s3-volume
 
     Creates a Docker container that is restored and backed up to a directory on s3.
-
-    You could use this to run short lived processes th...'
+    You could use this to run short lived processes th...
   name: docker-s3-volume
 spec:
   lifecycle: production
